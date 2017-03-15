@@ -2,6 +2,11 @@ package com.simple.notifier.notification;
 
 import java.io.IOException;
 
+/**
+ * Class for managing the notification
+ * 
+ * @author allwynjesu
+ */
 public class NotificationCentre {
 
     public static void displayNotification(Notification notification) {
